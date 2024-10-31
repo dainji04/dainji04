@@ -74,12 +74,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
-  
-
-  
-
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dainji04&show_icons=true&locale=en&layout=compact" alt="dainji04" /></p>
-
+<a href="#" title="dainji04">
+  </a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dainji04&show_icons=true&locale=en&layout=compact" alt="dainji04" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dainji04&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+<h3>snake eating my contributions</h3>
 ![snake gif](https://github.com/dainji04/dainji/blob/output/github-contribution-grid-snake.svg)
