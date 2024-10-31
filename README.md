@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vuejs, nodejs,...**
 
-- 💬 Ask me about **vue, gsap**
+- 💬 Ask me about **html, css, vuejs, gsap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
