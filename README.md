@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dainji</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **vuejs, nodejs,...**
+- 🌱 I’m currently learning **vuejs, php/laravel,...**
 
 - 💬 Ask me about **html, css, vuejs**
 
