@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **vuejs, php/laravel,...**
 
-- 💬 Ask me about **html, css, vuejs**
+- 💬 Ask me about **html, css, vue, angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
